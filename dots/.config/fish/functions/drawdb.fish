@@ -1,4 +1,4 @@
 function drawdb
-    cd ~/drawdb/
+    cd ~/.local/share/drawdb
     npm run dev
 end
